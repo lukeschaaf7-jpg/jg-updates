@@ -1,8 +1,8 @@
 {
   "version": "0.3.1",
   "notes": "Excel-Import, verbesserter GAS-Vorsitz-Editor und Dokumentformatierung",
-  "url": "https://github.com/lukeschaaf7-jpg/jg-updates/releases/download/v0.3.1/JG-Update-v0.3.1.zip",
-  "sha256": "f3e034094223ebbde559e9116e8ada2c8268c1477b8731ca377cebbfb4e1a671",
-  "published_at": "2026-11-14T16:46:40.549954+00:00",
-  "signature": "tjhN4B4Lo+U4CxGMx6ACOY0FfVO0zteFowtO0Ak0lf+LGcDPwV1StYFVZBm3QfIm0XjQU1F/FaALm3uLsizDBA=="
+  "url": "https://github.com/lukeschaaf7-jpg/jg-updates/releases/download/v0.3.1/JG-Update-v0.3.1-pfadfix.zip",
+  "sha256": "a572a532346522ad46d72b9f3ee2c147029e1876a60baa837e563e0def8f6d7d",
+  "published_at": "2026-11-14T17:31:43.445232+00:00",
+  "signature": "K6RT7dXOGd8HXx+MabdNUclRZ89sMTW283uXvz2cKjf/8vARmPyeEwqufz7UjTDKZgDmjqSHpZdMw6KaDpkHAQ=="
 }
