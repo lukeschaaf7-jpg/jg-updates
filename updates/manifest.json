@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
-  "notes": "Ermöglichung des Erstellen von Mitgliederbriefen",
-  "url": "https://github.com/lukeschaaf7-jpg/jg-updates/releases/download/v0.3.2/JG-Update-v0.3.2.zip",
-  "sha256": "da28b71aa9aa8549b420c8f321be6c77e6610fbf0833947da6decf935a12f100",
-  "published_at": "2026-11-14T18:09:37.349593+00:00",
-  "signature": "PZ9zP4YjLtnXAL2mVItCuaiaYpF/WZE0oUElkpIp1nsf4YF2QJki7xFJXVFangu1SbejA2mOnwyXUWo6hchHDw=="
+  "version": "0.3.3",
+  "notes": "\nBereich\nUmsetzung\nAnmeldung\nGrößeres Fenster mit Logo, Begrüßung, Uhrzeit, Enter-Taste und dezenter Animation\nMitglieder & Interessierte\nExcel-, CSV-, TSV- und TXT-Export zusätzlich zu PDF\nExportdialog\nDateiname, Speicherort und optionales Passwort auswählbar\nDatensicherung\nIdentische Kopie jedes Verzeichnis- und Statistikexports im Programmordner\nMitgliederbriefe\nEntwurfsliste mit Doppelklick, Ladeanzeige und schnellerem Abruf\nBriefeditor\nDeutliche Hinweise zur automatischen Anrede und Signatur\nVersandzentrum\nBriefauswahl, Empfängerkreis und PDF-Vorbereitung zusammengeführt\nGeburtstage\nAusführlichere, persönlichere deutsche und russische Glückwünsche\nStartseite\nNeueste Benachrichtigung mit Zugriff auf alle Meldungen\nBenachrichtigungen\nDoppelklick zur jeweiligen Funktion, sofern die Meldung noch aktuell ist\nNavigation\nZusätzlicher Button zur Website der Jüdischen Gemeinde\n",
+  "url": "https://github.com/lukeschaaf7-jpg/jg-updates/releases/download/v0.3.3/JG-Update-v0.3.3.zip",
+  "sha256": "e2c223aafb20573f3afeee706563011eb5f930c745059b25c48cfd797b8d6700",
+  "published_at": "2026-11-14T21:23:14.518756+00:00",
+  "signature": "1NWNsXV7b5K96sucOhC498tc6xFeexMWyTeoFCO1t/rI3q7eMHvxZsklBDiQCLTagu04z87BIeeKylpqB/wWDw=="
 }
